@@ -10,11 +10,11 @@ Run the following command to clone the repository:
 git clone https://github.com/pavankalyan7103/yendou-counter.git
 cd yendou-counter
 
-### **2️⃣ Clone the Repository**
+### **2️⃣ Install dependencies**
 
 2️⃣ Install Dependencies
 Run: npm install 
 
-### **3️⃣ Clone the Repository**
+### **3️⃣ Start**
 3️⃣ Start the Application
 Run: npm run dev
